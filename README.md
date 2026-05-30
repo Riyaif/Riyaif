@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/images/header.png" width="100%" alt="Mohamed Riyaif Banner">
+  <img src="https://raw.githubusercontent.com/Riyaif/Riyaif/header.png" width="100%" alt="Mohamed Riyaif Banner">
 </p>
 
 <h1 align="center">⚡ Mohamed Riyaif ⚡</h1>
@@ -15,6 +15,9 @@
   🔧 PCB Design
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyaif&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
