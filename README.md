@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed+Riyaif+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+Engineer+%7C+Firmware+Developer+%7C+IoT+%26+Robotics+Enthusiast&descAlignY=62&descSize=16" />
-</p>
 
 <p align="center">
   <a href="https://github.com/MDRIYAIF">
