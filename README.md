@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Riyaif/Riyaif/header.png" width="100%" alt="Mohamed Riyaif Banner">
+  <img src="https://raw.githubusercontent.com/Riyaif/Riyaif/main/header.png" width="100%" alt="Mohamed Riyaif Banner">
 </p>
-
-<h1 align="center">⚡ Mohamed Riyaif ⚡</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;Firmware+Developer;IoT+%26+Robotics+Enthusiast;ESP32+%7C+STM32+%7C+ROS;Building+Smart+Hardware+Solutions" />
 </p>
@@ -16,13 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyaif&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <a href="https://github.com/MDRIYAIF">
+  <a href="https://github.com/Riyaif">
     <img src="https://komarev.com/ghpvc/?username=Riyaif&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-riyaif-a7a27a1a6/">
@@ -130,19 +121,6 @@ int main() {
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-2D3748?style=flat-square&logo=freertos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/MDRIYAIF">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=MDRIYAIF&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/MDRIYAIF">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRIYAIF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
-</div>
 
 ---
 
