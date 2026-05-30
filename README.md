@@ -1,4 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/images/header.png" width="100%" alt="Mohamed Riyaif Banner">
+</p>
 
+<h1 align="center">⚡ Mohamed Riyaif ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;Firmware+Developer;IoT+%26+Robotics+Enthusiast;ESP32+%7C+STM32+%7C+ROS;Building+Smart+Hardware+Solutions" />
+</p>
+
+<p align="center">
+  🚀 Embedded Systems & Firmware &nbsp;|&nbsp;
+  🤖 Robotics & ROS &nbsp;|&nbsp;
+  📡 IoT & Wireless Systems &nbsp;|&nbsp;
+  🔧 PCB Design
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
   <a href="https://github.com/MDRIYAIF">
     <img src="https://komarev.com/ghpvc/?username=Riyaif&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
